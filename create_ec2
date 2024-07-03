@@ -15,7 +15,7 @@ def create_ec2_instance():
             'ResourceType': 'instance',
             'Tags': [
                 {
-                    'Key': 'Name',
+                    'Key': 'Shivam',
                     'Value': 'Naman'
                 },
             ]
